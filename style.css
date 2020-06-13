@@ -231,7 +231,7 @@ body {
   
   /*CONTACT*/
   .blue {
-    background: #000000;
+    background: white;
     text-align: center;
   }
   
@@ -286,3 +286,6 @@ body {
   img {
     text-align: center;
   }
+.color-white {
+  color: gold;
+}
